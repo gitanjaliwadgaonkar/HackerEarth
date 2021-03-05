@@ -1,2 +1,2 @@
 # HackerEarth
-In this repository I upload HackerEarth programs.
+In this repository contains HackerEarth programs.
